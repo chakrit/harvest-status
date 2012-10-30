@@ -1,7 +1,7 @@
 {
   "name": "harvest-status",
   "version": "0.1.0",
-  "description": "ERROR: No README.md file found!",
+  "description": "Simple command-line tool to poll the harvest status API.",
   "main": "index.js",
   "bin": {
     "harvest-status": "./cli.js"
@@ -13,6 +13,7 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "request": "~2.11.4"
+    "request": "~2.11.4",
+    "colors": "~0.6.0-1"
   }
 }
