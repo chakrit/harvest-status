@@ -6,12 +6,9 @@
   "bin": {
     "harvest-status": "./cli.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": "",
-  "author": "",
-  "license": "BSD",
+  "repository": "git://github.com/chakrit/harvest-status.git",
+  "author": "Chakrit Wichian <service@chakrit.net> (http://chakrit.net)",
+  "license": "WTFPL",
   "dependencies": {
     "request": "~2.11.4",
     "colors": "~0.6.0-1"
